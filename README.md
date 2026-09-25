@@ -100,5 +100,5 @@ After downloading, place the files in the `Data/Raw/` folder to reproduce the fu
 **Nurudeen Abiodun Babalola**  
 Geospatial Data Analysis | Portfolio Project  
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nurudeenbabalola)  
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nurudeenbabalola)  
 GitHub: [https://github.com/adewalejnr/nigeria-flood-healthcare-access](https://github.com/adewalejnr/nigeria-flood-healthcare-access)
