@@ -95,4 +95,10 @@ After downloading, place the files in the `Data/Raw/` folder to reproduce the fu
 
 ## Author
 
-Original geospatial analysis conducted as a portfolio project focused on data engineering and flood risk applications in Nigeria.
+## Author
+
+**Nurudeen Abiodun Babalola**  
+Geospatial Data Analysis | Portfolio Project  
+
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nurudeenbabalola)  
+GitHub: [https://github.com/adewalejnr/nigeria-flood-healthcare-access](https://github.com/adewalejnr/nigeria-flood-healthcare-access)
