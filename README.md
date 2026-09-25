@@ -31,6 +31,20 @@ Female population living in flood-exposed areas:
 
 **Main insight:** While most people live relatively close to a health facility under normal conditions, a large number of people (especially women) in Lagos and Rivers live in areas that can be flooded, creating potential access barriers during flood events.
 
+## Maps
+
+### Lagos State
+![Lagos State - Healthcare Facilities and Flood Exposure](Outputs/Maps/map_lagos.png)
+
+### Imo State
+![Imo State - Healthcare Facilities and Flood Exposure](Outputs/Maps/map_imo.png)
+
+### Rivers State
+![Rivers State - Healthcare Facilities and Flood Exposure](Outputs/Maps/map_rivers.png)
+
+### Cross River State
+![Cross River State - Healthcare Facilities and Flood Exposure](Outputs/Maps/map_cross_river.png)
+
 ## Repository Contents
 
 - `Notebooks/` — Analysis scripts (01 to 14)
@@ -92,8 +106,6 @@ After downloading, place the files in the `Data/Raw/` folder to reproduce the fu
 1. Distance analysis uses Euclidean (straight-line) distance rather than road network distance.
 2. Flood exposure is based on modelled indicators at LGA level, not high-resolution flood extent for a specific event.
 3. Health facility data is operational and may not be fully exhaustive.
-
-## Author
 
 ## Author
 
