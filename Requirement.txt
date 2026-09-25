@@ -1,1 +1,15 @@
-
+geopandas
+rasterio
+shapely
+fiona
+pyproj
+pandas
+numpy
+matplotlib
+scipy
+contextily
+folium
+leafmap
+osmnx
+tqdm
+requests
