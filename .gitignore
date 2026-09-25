@@ -1,0 +1,22 @@
+# Large raw data
+Data/Raw/
+data/raw/
+
+# Large raster files
+*.tif
+Data/Processed/*.tif
+data/processed/*.tif
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+floodgis/
+
+# System & compressed files
+.DS_Store
+Thumbs.db
+*.zip
+*.pbf
