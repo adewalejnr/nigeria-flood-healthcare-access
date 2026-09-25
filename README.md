@@ -86,3 +86,14 @@ After downloading, place the files in the `Data/Raw/` folder to reproduce the fu
    conda install -c conda-forge geopandas rasterio shapely fiona pyproj pandas numpy matplotlib scipy
 3. Download the excluded large files (see above) into Data/Raw/
 4. Run the scripts in the Notebooks/ folder in order (01 → 14)
+
+
+**Limitations**
+
+1. Distance analysis uses Euclidean (straight-line) distance rather than road network distance.
+2. Flood exposure is based on modelled indicators at LGA level, not high-resolution flood extent for a specific event.
+3. Health facility data is operational and may not be fully exhaustive.
+
+**Author**
+
+Original geospatial analysis conducted as a portfolio project focused on data engineering and flood risk applications in Nigeria.
